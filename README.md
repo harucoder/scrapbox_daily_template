@@ -3,8 +3,7 @@ My very first code;)
 
 This is a customization file for Scrapbox.io.
 
-##What does it do? 
-
+## What does it do? 
 - adds schedule/task list defined in template.js to daily pages
 - you can set different template for each day of the week 
 
